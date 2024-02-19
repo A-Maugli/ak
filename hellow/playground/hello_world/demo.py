@@ -21,7 +21,7 @@ def demo() -> None:
         signer=account,
     )
 
-    # Deploy the app on-chain
+    # Deploy the app on-chainpwd
     create_response = app_client.create()
     print(
         f"""Deployed app in txid {create_response.tx_id}
