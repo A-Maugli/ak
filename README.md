@@ -1,2 +1,1 @@
-# ak
-# Algokit trial on gitpod.io
+# akt01 - AlgoKit Trial on gitpod.io
